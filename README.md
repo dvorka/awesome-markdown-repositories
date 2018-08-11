@@ -34,6 +34,7 @@ Git SCM:
 
 * [Pro Git 2nd edition](https://github.com/progit/progit2) - Pro Git book content, 2nd edition.
 * [Pro Git 1st edition](https://github.com/progit/progit) - Pro Git book content, 1st edition.
+
 # AI
 AI services:
 
@@ -46,6 +47,11 @@ Neural networks:
 Computer vision:
 
 * [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - a curated list of awesome computer vision resources.
+
+Communities and social resources:
+
+* [Do you even learn](https://github.com/BAILOOL/DoYouEvenLearn) - essential Guide to keep up with AI/ML/CV.
+
 # Interviews
 Interviews:
 
