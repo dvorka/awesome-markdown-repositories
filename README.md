@@ -78,4 +78,4 @@ Miscellaneous:
 
 * [LivingSocial API design](https://github.com/livingsocial/api-design) - LivingSocial API design guide.
 * [HydraEcoSystem](https://github.com/HTTP-APIs/http-apis.github.io) - main documentation entrypoint for Hydra-based applications.
-* [FiveThirtyEight data](https://github.com/fivethirtyeight/data) - data and code behind the articles and graphics at FiveThirtyEight https://data.fivethirtyeight.com/
+* [FiveThirtyEight data](https://github.com/fivethirtyeight/data) - data and code behind the articles and graphics at [FiveThirtyEight](https://data.fivethirtyeight.com/)
