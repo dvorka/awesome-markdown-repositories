@@ -1,7 +1,8 @@
 # Awesome Markdown repositories
 A collection of Markdown repositories.
 
-_Created with [MindForger](https://github.com/dvorka/mindforger)_
+_Created with [MindForger](https://github.com/dvorka/mindforger)._
+
 # Markdown
 Markdown:
 
