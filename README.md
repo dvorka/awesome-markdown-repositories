@@ -68,9 +68,10 @@ everything you need to know to get the job.
 * [Java interview preparation](https://github.com/Java-aid/Interview-Preparations) - 
 repository contains coding assessments and their solutions for various IT companies.
 # Linux
-Linux:
+Bash:
 
 * [Pure Bash bible](https://github.com/dylanaraps/pure-bash-bible.git) - a collection of pure bash alternatives to external processes.
+
 # Misc
 Miscellaneous:
 
