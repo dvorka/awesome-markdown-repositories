@@ -8,6 +8,7 @@ Markdown:
 
 * [Awesome Markdown](https://github.com/mundimark/awesome-markdown) - a collection of Markdown goodies (libraries, services, editors, tools, cheatsheets)
 * [Awesome Markdown editors](https://github.com/mundimark/awesome-markdown-editors)- a collection of Markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows and web.
+* [Markdown Guide](https://github.com/mattcone/markdown-guide-book) - the comprehensive Markdown reference guide, in book format.
 * [GitHub emoji cheatsheet](https://gist.github.com/rxaviers/7360908) - complete list of GitHub markdown emoji markup.
 # Algorithms
 Algorithms:
